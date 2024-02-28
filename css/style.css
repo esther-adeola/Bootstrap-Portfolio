@@ -65,4 +65,6 @@
     margin-left: 10px;
   }
   
-  
+  .portfolioProjects:hover{
+    opacity: .5;
+  }
